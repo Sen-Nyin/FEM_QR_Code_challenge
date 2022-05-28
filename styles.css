@@ -5,6 +5,20 @@ body {
     font-size: 15px;
 }
 
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 1.4rem;
+    padding: 5px 15px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    padding: 0 15px;
+}
+
+/* Flexbox */
+
 .main-flex {
     display: flex;
     flex-direction: column;
@@ -23,16 +37,4 @@ body {
 .qr-contain img {
     width: 100%;
     border-radius: 15px;
-}
-
-h1 {
-    color: hsl(218, 44%, 22%);
-    font-size: 1.4rem;
-    padding: 5px 15px;
-}
-
-p {
-    color: hsl(220, 15%, 55%);
-    font-size: 15px;
-    padding: 0 15px;
 }
