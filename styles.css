@@ -3,6 +3,7 @@ body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
     font-size: 15px;
+    margin: 0;
 }
 
 h1 {
